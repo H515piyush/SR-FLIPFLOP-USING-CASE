@@ -78,8 +78,8 @@ endmodule
 ![323287627-2e7d6ca0-c02b-4c31-b3eb-f90bb1b7e0a5](https://github.com/H515piyush/SR-FLIPFLOP-USING-CASE/assets/147472999/37761f8e-c25b-46af-8e9a-97d22d841f92)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![323287725-78e77503-f09f-4696-8e28-41ec277e5350](https://github.com/H515piyush/SR-FLIPFLOP-USING-CASE/assets/147472999/5799ea6b-aa41-45d2-b72c-47e87ae89b02)
 
+![digi ex6 wave output](https://github.com/H515piyush/SR-FLIPFLOP-USING-CASE/assets/147472999/2903c58f-87b7-4fb6-bbbb-04a4998adc7b)
 
 **RESULTS**
 The observation of the simulation results and confirm the successful execution of the program.
